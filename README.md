@@ -17,10 +17,19 @@ I'm Alfonso, a passionate Data Scientist working at the intersection of Open Sci
 - ⚙️ [raw2zarr](https://github.com/aladinor/raw2zarr) – Original author and lead developer
 - 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
 - 📡 [xradar](https://github.com/openradar/xradar) – Core maintainer
-  
+
+### 👥 Organizations
+- 🛰️ [Open Radar](https://github.com/openradar)
+- 🧊 [Project Pythia](https://github.com/ProjectPythia)
+
+# 
+
 <a href="https://github.com/aladinor/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aladinor&theme=dark&rank_icon=github" />
 </a>
 
-### Contact
-- Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu)
+#
+
+### 📬 Contact
+
+📧 Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu)
