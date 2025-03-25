@@ -22,17 +22,16 @@ I'm Alfonso, a passionate Data Scientist working at the intersection of Open Sci
 - 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
 - 📡 [xradar](https://github.com/openradar/xradar) – Core maintainer
   
-### Work Experience
-#### Graduate Research Assistant @ CLiMAS-UIUC
-- Investigate PSD retrievals using radar measurements.
-- Develop ML frameworks for precipitation estimates.
-- Contribute to open-source Python projects like Xarray.
+### 💼 Work Experience
+#### 👨‍🔬 Graduate Research Assistant @ CLiMAS - UIUC
+- 🔬 Investigate PSD retrievals using radar measurements.
+- 🤖 Build ML frameworks for precipitation estimation.
+- 🐍 Contribute to open-source projects like Xarray.
 
-#### Radar Meteorologist and Software Developer @ IDEAM
-- Weather data integration and visualization.
-- Developed software for radar and satellite data.
-- Trained forecasters in radar meteorology.
-
+#### 🌧️ Radar Meteorologist & Software Developer @ IDEAM
+- 🛰️ Integrated and visualized weather datasets.
+- 🛠️ Developed tools for radar and satellite data.
+- 👩‍🏫 Trained forecasters in radar meteorology.
 
 ### Contact
 - Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu)
