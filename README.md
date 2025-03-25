@@ -27,7 +27,9 @@ I'm Alfonso, a passionate Data Scientist working at the intersection of Open Sci
 <a href="https://github.com/aladinor/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aladinor&theme=dark&rank_icon=github" />
 </a>
-
+<a href="https://github.com/aladinor/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladinor&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 #
 
 ### 📬 Contact
