@@ -16,7 +16,7 @@ I'm Alfonso, a passionate Data Scientist working at the intersection of Open Sci
 ### 🛠️ Software Projects
 - ⚙️ [raw2zarr](https://github.com/aladinor/raw2zarr) – Original author and lead developer
 - 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
-- 📡 [xradar](https://github.com/openradar/xradar) – Core maintainer
+- 📡 [xradar](https://github.com/openradar/xradar) – Contributor
 
 ### 👥 Organizations
 - 🛰️ [Open Radar](https://github.com/openradar)
