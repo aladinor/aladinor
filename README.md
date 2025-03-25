@@ -9,29 +9,18 @@
 ## 👋 Hi there!
 
 I'm Alfonso, a passionate Data Scientist working at the intersection of Open Science, Machine Learning, Radar, and Weather ⛅🌩️. Always excited about science, open-source, and cool data problems! 🧠💻
-
-
 ### 🎓 Education
 - 📍 PhD (c) Climate, Meteorology, and Atmospheric Sciences – UIUC
 - 🌦️ MSc. Meteorology – Universidad Nacional de Colombia
 - 🌱 Bs. Agricultural Engineering – Universidad Nacional de Colombia
-
-
 ### 🛠️ Software Projects
 - ⚙️ [raw2zarr](https://github.com/aladinor/raw2zarr) – Original author and lead developer
 - 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
 - 📡 [xradar](https://github.com/openradar/xradar) – Core maintainer
   
-### 💼 Work Experience
-#### 👨‍🔬 Graduate Research Assistant @ CLiMAS - UIUC
-- 🔬 Investigate PSD retrievals using radar measurements.
-- 🤖 Build ML frameworks for precipitation estimation.
-- 🐍 Contribute to open-source projects like Xarray.
-
-#### 🌧️ Radar Meteorologist & Software Developer @ IDEAM
-- 🛰️ Integrated and visualized weather datasets.
-- 🛠️ Developed tools for radar and satellite data.
-- 👩‍🏫 Trained forecasters in radar meteorology.
+<a href="https://github.com/aladinor/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aladinor&theme=dark&rank_icon=github" />
+</a>
 
 ### Contact
 - Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu)
