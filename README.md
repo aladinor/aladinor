@@ -6,18 +6,22 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=Bluesky&logoColor=white)](https://bsky.app/profile/aladino123.bsky.social)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/a-ladino/)
 
-## Hi there 👋
+## 👋 Hi there!
 
-I'm a Data Scientist focused on Open Science, ML, Radar, and Weather.
-
-
+I'm Alfonso, a passionate Data Scientist working at the intersection of Open Science, Machine Learning, Radar, and Weather ⛅🌩️. Always excited about science, open-source, and cool data problems! 🧠💻
 
 
-### Education
-- PhD (c) Climate, Meteorology, and Atmospheric Sciences - UIUC
-- MSc. Meteorology - Universidad Nacional de Colombia
-- Bs. Agricultural Engineering - Universidad Nacional de Colombia
+### 🎓 Education
+- 📍 PhD (c) Climate, Meteorology, and Atmospheric Sciences – UIUC
+- 🌦️ MSc. Meteorology – Universidad Nacional de Colombia
+- 🌱 Bs. Agricultural Engineering – Universidad Nacional de Colombia
 
+
+### 🛠️ Software Projects
+- ⚙️ [raw2zarr](https://github.com/aladinor/raw2zarr) – Original author and lead developer
+- 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
+- 📡 [xradar](https://github.com/openradar/xradar) – Core maintainer
+  
 ### Work Experience
 #### Graduate Research Assistant @ CLiMAS-UIUC
 - Investigate PSD retrievals using radar measurements.
@@ -29,19 +33,6 @@ I'm a Data Scientist focused on Open Science, ML, Radar, and Weather.
 - Developed software for radar and satellite data.
 - Trained forecasters in radar meteorology.
 
-### Publications
-- [Ladino, A., et al. Droplet size distribution retrieval using DNN.](#)
-- [Ladino, A., et al. Raw2Zarr - Python package for radar data.](#)
-- [Ladino, A., et al. Scientific data workshop with Python and R.](#)
-- [Grover, M., et al. Radar Cookbook.](#)
-- [Rivelli Zea, L., et al. Raindrop Size Spectrum.](#)
-
-### Conferences & Seminars
-- **AMS Annual meeting**: Leveraging FAIR principles for radar data, New Orleans, LA, US.
-- **ERAD 2024**: PSD retrieval using DNN, Rome, Italy.
-- **SciPy 2024**: Efficient management of meteorological radar data, Tacoma, US.
-- **AtmosCol-2023**: Open science and collaborative development, Armenia, Colombia.
-- **AMS Radar Conference**: Session Co-Chair and various presentations.
 
 ### Contact
 - Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu)
