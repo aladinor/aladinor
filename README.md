@@ -8,7 +8,7 @@
 
 ## 👋 Hi there!
 
-I'm Alfonso, a passionate Data Scientist working at the intersection of Open Science, Machine Learning, Radar, and Weather ⛅🌩️. Always excited about science, open-source, and cool data problems! 🧠💻
+I'm Alfonso, a Data Scientist working at the intersection of Open Science, Machine Learning, Radar, and Weather ⛅🌩️. Always excited about science, open-source, and cool data problems! 🧠💻
 ### 🎓 Education
 - 📍 PhD (c) Climate, Meteorology, and Atmospheric Sciences – UIUC
 - 🌦️ MSc. Meteorology – Universidad Nacional de Colombia
