@@ -14,7 +14,7 @@ I'm Alfonso, a Data Scientist working at the intersection of Open Science, Machi
 - 🌦️ MSc. Meteorology – Universidad Nacional de Colombia
 - 🌱 Bs. Agricultural Engineering – Universidad Nacional de Colombia
 ### 🛠️ Software Projects
-- ⚙️ [raw2zarr](https://github.com/aladinor/raw2zarr) – Original author and lead developer
+- ⚙️ [radar-datatree](https://github.com/aladinor/radar-datatree) – Original author and lead developer
 - 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
 - 📡 [xradar](https://github.com/openradar/xradar) – Contributor
 
