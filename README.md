@@ -16,7 +16,7 @@ I'm Alfonso, a Data Scientist working at the intersection of Open Science, Machi
 ### 🛠️ Software Projects
 - ⚙️ [radar-datatree](https://github.com/aladinor/radar-datatree) – Original author and lead developer
 - 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
-- 📡 [xradar](https://github.com/openradar/xradar) – Contributor
+- 📡 [xradar](https://github.com/openradar/xradar) – Mantainer
 
 ### 👥 Organizations
 - 🛰️ [Open Radar](https://github.com/openradar)
