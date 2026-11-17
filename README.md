@@ -15,12 +15,14 @@ I'm Alfonso, a Data Scientist working at the intersection of Open Science, Machi
 - 🌱 Bs. Agricultural Engineering – Universidad Nacional de Colombia
 ### 🛠️ Software Projects
 - ⚙️ [radar-datatree](https://github.com/aladinor/radar-datatree) – Original author and lead developer
+- 🦀 [rustytree](https://github.com/aladinor/rustytree) – Original author and lead developer
 - 📦 [Xarray](https://github.com/pydata/xarray) – Contributor
 - 📡 [xradar](https://github.com/openradar/xradar) – Mantainer
 
 ### 👥 Organizations
 - 🛰️ [Open Radar](https://github.com/openradar)
 - 🧊 [Project Pythia](https://github.com/ProjectPythia)
+- 🌐 [AtmoScale](https://github.com/AtmoScale)
 
 # 
 
@@ -35,4 +37,4 @@ I'm Alfonso, a Data Scientist working at the intersection of Open Science, Machi
 
 ### 📬 Contact
 
-📧 Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu)
+📧 Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu) · [alfonso at atmoscale dot ai](mailto:alfonso@atmoscale.ai)
