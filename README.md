@@ -37,4 +37,4 @@ I'm Alfonso, a Data Scientist working at the intersection of Open Science, Machi
 
 ### 📬 Contact
 
-📧 Email: [alfonso8 at illinois dot edu](mailto:alfonso8@illinois.edu) · [alfonso at atmoscale dot ai](mailto:alfonso@atmoscale.ai)
+📧 Email: [alfonso at atmoscale dot ai](mailto:alfonso@atmoscale.ai)
